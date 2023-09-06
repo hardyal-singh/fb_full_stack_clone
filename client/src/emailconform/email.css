@@ -1,0 +1,18 @@
+.conform_email_container{display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;}
+
+.conform_email_main{padding:20px;
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    box-shadow: 2px 2px 4px 5px gainsboro;
+}
+
+.conform_email_main a{text-decoration: none;}
+
+    .conform_email_main input[type="submit"]{border:none;
+    background-color:#01A500;
+color: aliceblue;}

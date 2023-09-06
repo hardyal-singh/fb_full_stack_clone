@@ -1,0 +1,21 @@
+.password_reset_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ height: 100vh;
+}
+
+.password_main_container {
+  box-shadow: 2px 2px 5px 3px grey;
+  height: 40vh;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.password_main_container input[type="submit"] {
+  background-color: #01a500;
+  border: none;
+  color: whitesmoke;
+  border-radius: 2px;
+}

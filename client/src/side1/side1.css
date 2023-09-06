@@ -1,0 +1,44 @@
+.sideBar {
+  display: flex;
+  flex-direction: column;
+  height: 91vh;
+  padding: 13px 10px;
+  box-sizing: border-box;
+  position: fixed;
+  margin-top: 7vh;
+  margin-right: 1vw;
+  width: 20vw;
+}
+
+.side1_button {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  border-radius: 10px;
+  border: none;
+  gap: 15px;
+}
+
+.side1_button:hover {
+  background-color: #e4e6e9;
+}
+
+p {
+  font-weight: 600;
+}
+
+.side1_line {
+  height: 1px;
+  width: 100%;
+  background-color: #e4e6e9;
+}
+
+.icon {
+  color: #056be1;
+  font-size: 23px;
+}
+
+.side1_img {
+  height: 23px;
+  border-radius: 50%;
+}

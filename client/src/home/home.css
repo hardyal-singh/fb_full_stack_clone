@@ -1,0 +1,6 @@
+.home{display: flex;
+flex-direction: column;}
+
+.home_bottom{display: flex;
+justify-content: space-between;}
+ 
